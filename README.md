@@ -1,4 +1,4 @@
-#TO RUN THE CODE, DOWNLOAD THE PYTHON FILE AND USE PyScripter, PyDev, PyCharm, Google Colab or any other tools supported to open the .ipynb file
+**TO RUN THE CODE, DOWNLOAD THE PYTHON FILE AND USE PyScripter, PyDev, PyCharm, Google Colab or any other tools supported to open the .ipynb file**
 
 # Identify-and-Predict-Credit-Card-Defaulter---Advanced-Data-Science
 Used Machine Learning algorithms like Logistic Regression, Random Forest and Decision Trees to create predictive models and interpret them. Found a significant relation for each algorithm in the data to create multivariate models.
