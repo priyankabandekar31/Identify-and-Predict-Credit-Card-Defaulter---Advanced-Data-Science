@@ -4,7 +4,7 @@
 Used Machine Learning algorithms like Logistic Regression, Random Forest and Decision Trees to create predictive models and interpret them. Found a significant relation for each algorithm in the data to create multivariate models.
 
 **Data Set Name:** 'default of credit card clients Data Set'    [`link to UCI repository`](http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients) which contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.                                                                                      
-####**Source:**            
+#### **Source:**            
 **Name:** I-Cheng Yeh 
 
 **Email addresses:** 
