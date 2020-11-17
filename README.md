@@ -3,6 +3,7 @@
 # Identify-and-Predict-Credit-Card-Defaulter---Advanced-Data-Science
 Used Machine Learning algorithms like Logistic Regression, Random Forest and Decision Trees to create predictive models and interpret them. Found a significant relation for each algorithm in the data to create multivariate models.
 
+## Dataset Information
 **Data Set Name:** 'default of credit card clients Data Set'    [`link to UCI repository`](http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients) which contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.                                                                                      
 #### **Source:**            
 **Name:** I-Cheng Yeh 
@@ -16,7 +17,8 @@ Used Machine Learning algorithms like Logistic Regression, Random Forest and Dec
 
 **Other contact information:** 886-2-26215656 ext. 3181
 
-**Abstract :** In recent years, the credit card issuers in Taiwan faced the **cash and credit card debt crisis** and the delinquency is expected to peak in the third quarter of 2006 (Chou,2006). In order to increase market share, card-issuing banks in Taiwan **over-issued cash and credit cards to unqualified applicants.** At the same time, most cardholders, irrespective of their repayment ability, **overused credit card** for consumption and accumulated **heavy credit and cash–card debts.** The crisis caused the blow to consumer finance confidence and it is a big challenge for both banks and cardholders.In a well-developed financial system, **crisis management**
+## Abstract
+In recent years, the credit card issuers in Taiwan faced the **cash and credit card debt crisis** and the delinquency is expected to peak in the third quarter of 2006 (Chou,2006). In order to increase market share, card-issuing banks in Taiwan **over-issued cash and credit cards to unqualified applicants.** At the same time, most cardholders, irrespective of their repayment ability, **overused credit card** for consumption and accumulated **heavy credit and cash–card debts.** The crisis caused the blow to consumer finance confidence and it is a big challenge for both banks and cardholders.In a well-developed financial system, **crisis management**
 is on the downstream and risk prediction is on the
 upstream. The major purpose of **risk prediction** is to use
 financial information, such as business financial statement,
