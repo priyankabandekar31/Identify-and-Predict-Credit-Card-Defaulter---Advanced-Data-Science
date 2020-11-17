@@ -35,6 +35,10 @@ Before we begin, the term **default on credit card** means that if you have **fa
 **Aim** : To identify and Predict from the past data of the credit card if a customer will default their credit card or not. The main objective is to bring more consistency for banks when then give out loans and to find out what are the factors that will make a customer a credit card defaulter.
 
 ## Conclusion
+Two important characteristics that are most likely to illustrate an individual defaulting within their credit card are
+* age
+* last two credit card payments
+The most accurate model for this dataset is the utilization of a RandomForestClassifier 
 ![](Images/CreditCard-1.PNG)
 
 ## Citations
