@@ -36,13 +36,24 @@ Before we begin, the term **default on credit card** means that if you have **fa
 
 ## Citations
 © Yeh, I. C., & Lien, C. H. (2009). The comparisons of data mining techniques for the predictive accuracy of probability of default of credit card clients. Expert Systems with Applications, 36(2), 2473-2480.
+
 © Illustration: Lazaro Gamio/Axios
+
 https://stackoverflow.com/questions/20577840/python-dictionary-sorting-in-descending-order-based-on-values
+
 https://machinelearningmastery.com/calculate-feature-importance-with-python/
+
 https://stackoverflow.com/questions/61325314/how-to-change-plot-confusion-matrix-default-figure-size-in-sklearn-metrics-packa
+
 https://www.analyticsvidhya.com/blog/2020/03/what-is-multicollinearity/
+
 https://stackoverflow.com/questions/35723472/how-to-use-sklearn-fit-transform-with-pandas-and-return-dataframe-instead-of-num
+
 https://stackoverflow.com/questions/20297317/python-dataframe-pandas-drop-column-using-int
+
 https://stackoverflow.com/questions/20297317/python-dataframe-pandas-drop-column-using-int
+
 https://machinelearningmastery.com/calculate-feature-importance-with-python/
+
 https://towardsdatascience.com/all-the-annoying-assumptions-31b55df246c3
+
